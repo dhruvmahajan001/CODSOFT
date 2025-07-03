@@ -41,7 +41,7 @@ A simple and fully functional calculator built with HTML, CSS, and JavaScript. S
 
 ### 🌐 Connect with Me
 - 📧 Email: dhruv.mahajan6969@gmail.com
-- 💼 LinkedIn: [Dhruv Mahajan](https://www.linkedin.com/in/dhruv-mahajan-4abb8a331/)  
+- 💼 LinkedIn: [Dhruv Mahajan](https://www.linkedin.com/in/dhruv-mahajan6969/)  
 - 💻 GitHub: [@dhruvmahajan001](https://github.com/dhruvmahajan001)
 
 
