@@ -5,7 +5,7 @@ This repository contains all three Level 1 tasks completed as part of my web dev
 
 
 ## ✅ Task 1 - Personal Portfolio
-A clean and responsive personal portfolio website showcasing my profile, skills, projects, and contact form. Built using only HTML and CSS with a modern red, green, and blue theme variant.
+A clean and responsive personal portfolio website showcasing my profile, skills, projects, and contact form. Built using only HTML and CSS with a modern red theme variant.
 
 🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task1-Portfolio/)
 
@@ -40,8 +40,8 @@ A simple and fully functional calculator built with HTML, CSS, and JavaScript. S
 
 
 ### 🌐 Connect with Me
-- 📧 Email: dhruv@example.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📧 Email: dhruv.mahajan6969@gmail.com
+- 💼 LinkedIn: [Dhruv Mahajan](www.linkedin.com/in/dhruv-mahajan-4abb8a331)  
 - 💻 GitHub: [@dhruvmahajan001](https://github.com/dhruvmahajan001)
 
 
