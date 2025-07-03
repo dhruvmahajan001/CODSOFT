@@ -7,21 +7,20 @@ This repository contains all three Level 1 tasks completed as part of my web dev
 ## ✅ Task 1 - Personal Portfolio
 A clean and responsive personal portfolio website showcasing my profile, skills, projects, and contact form. Built using only HTML and CSS with a modern red, green, and blue theme variant.
 
-🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task%201-Portfolio/)
+🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task1-Portfolio/)
 
 
 
 ## ✅ Task 2 - Landing Page
 A visually appealing landing page designed to present services, stats, about us, and contact form. It follows a professional layout and includes smooth color gradients and custom sections.
 
-🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task%202-Landing%20Page/)
-
+🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task2-Landing%20Page/)
 
 
 ## ✅ Task 3 - Basic Calculator
 A simple and fully functional calculator built with HTML, CSS, and JavaScript. Supports basic arithmetic operations and is styled with a red-black theme UI.
 
-🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task%203-Calculator/)
+🔗 **Live Link**: [Click Here](https://dhruvmahajan001.github.io/CODSOFT/Task3-Calculator/)
 
 
 ### 🔧 Tools & Technologies Used
